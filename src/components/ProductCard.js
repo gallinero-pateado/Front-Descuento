@@ -19,7 +19,7 @@ const ProductCard = ({ product, toggleLike }) => {
             {/* Botón para mostrar/ocultar condiciones */}
             <button
                 onClick={toggleConditions}
-                className="bg-black text-white px-3 py-1 mt-2 rounded hover:bg-gray-700 transition duration-300"
+                className="bg-[#0092BC] text-white px-3 py-1 mt-2 rounded hover:bg-[#A3D9D3] hover:text-[#0092BC] transition duration-300"
             >
                 {showConditions ? 'Ocultar condiciones' : 'Ver condiciones'}
             </button>

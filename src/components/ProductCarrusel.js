@@ -83,7 +83,7 @@ function ProductCarrusel({ products }) { //tambien desde aquí se estan llamando
                 {/* Botón para ver más detalles */}
                 <button
                   onClick={handleShowError} // Mostrar el mensaje de error al hacer clic
-                  className="inline-block bg-blue-600 text-white px-3 py-1 rounded hover:bg-blue-800 transition duration-300 text-sm" // Botón más pequeño
+                  className="inline-block bg-[#0092BC] text-white px-3 py-1 rounded hover:bg-[#A3D9D3] hover:text-[#0092BC] transition duration-300 text-sm" // Botón más pequeño
                 >
                   Más Información
                 </button>

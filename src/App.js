@@ -73,7 +73,7 @@ function App() {
       <Suspense fallback={<LoadingMessage message="Cargando componentes..." />}>
         <Routes>
           <Route path="/" element={
-            <div className="min-h-screen bg-gray-100 text-center relative">
+            <div className="min-h-screen bg-[#DAEDF2] text-center relative">
               <Header /> {/* Manda el header */}
 
               {/* Mensajes de estado */}

@@ -1,0 +1,97 @@
+/* Cambiar el color de las flechas del carrusel */
+.slick-prev:before, .slick-next:before {
+  color: #333333; /* Color personalizado para las flechas */
+  font-size: 30px; /* Tamaño del ícono */
+}
+
+.slick-prev:hover:before, .slick-next:hover:before {
+  color: #111111; /* Cambiar el color de las flechas al pasar el cursor */
+}
+
+/* Asegurar que las flechas se muestren correctamente */
+.slick-prev, .slick-next {
+  z-index: 2; /* Asegurar que las flechas estén por encima del contenido */
+  display: block !important; /* Forzar que las flechas se muestren */
+  top: 50%; /* Centrarlas verticalmente */
+  transform: translateY(-50%); /* Alinearlas verticalmente */
+}
+
+.slick-prev {
+  left: -35px; /* Acercar la flecha izquierda */
+}
+
+
+@media (max-width: 1024px) {
+  /* Acercar las flechas al contenedor del carrusel */
+.slick-prev {
+  left: -10px; /* Acercar la flecha izquierda */
+}
+
+.slick-next {
+  right: -8px; /* Acercar la flecha derecha */
+}
+
+  .slick-prev, .slick-next {
+    width: 30px; /* Tamaño reducido para dispositivos móviles */
+    height: 30px;
+    top: 50%; /* Alinearlas un poco más arriba para pantallas pequeñas */
+  }
+}
+
+
+/* Ajuste de las flechas en pantallas pequeñas */
+@media (max-width: 768px) {
+  /* Acercar las flechas al contenedor del carrusel */
+.slick-prev {
+  left: -1px; /* Acercar la flecha izquierda */
+}
+
+.slick-next {
+  right: -1px; /* Acercar la flecha derecha */
+}
+
+  .slick-prev, .slick-next {
+    width: 30px; /* Tamaño reducido para dispositivos móviles */
+    height: 30px;
+    top: 50%; /* Alinearlas un poco más arriba para pantallas pequeñas */
+  }
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

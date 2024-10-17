@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "2 Combo Stacker XL Doble",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-12-26/07942cd8c1baae3b7663f0b30255e2d7.jpeg",
+        "description": "TM & © 2023 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 2,
+        "name": "2 Combo Whopper Medianos",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-12-26/a6cc9d1ca126303168543172f200d81c.jpeg",
+        "description": "TM & © 2022 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 3,
+        "name": "2 Combo Hamburguesa Doble Queso Tocino",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-12-26/f25e2eb91212432a0444362af3a32fb5.jpeg",
+        "description": "Una de nuestras clásicas y más pedidas, dos hamburguesas de 56g de carne 100% la parrilla, con doble queso y crujiente tocino que vas a querer volver a comer una y otra vez. \nTM & © 2023 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 4,
+        "name": "Family Bundle - 2 Combos Whopper + 2 Combos Whopper Jr.",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-03-13/edb80457efd5092d4d77ccc2dcd8938a.jpeg",
+        "description": "TM & © 2022 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 5,
+        "name": "Combo Whopper Mediano",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-12-26/9a2dcbab768f46ef67561e3db16defe4.jpeg",
+        "description": "TM & © 2022 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 6,
+        "name": "3 Combo Whopper Medianos",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-12-26/25e907a5960cb781cf643593ba4c788c.jpeg",
+        "description": "TM & © 2022 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 7,
+        "name": "Combo Whopper Jr. Doble",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-06-13/d71266e7c8cc477e20d5b630a0482da8.jpeg",
+        "description": "TM & © 2022 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 8,
+        "name": "2 Hamburguesa Deluxe + 1 papa y bebida pequeña",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-03-13/2599f50e5e2faaa25a1f65780b8567e4.jpeg",
+        "description": "Cupón incluye una papa frita y bebida pequeña",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 9,
+        "name": "2 Combo Rodeo King",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-12-26/a7f5a680b2a44187dcd7e595bf0f6eaa.jpeg",
+        "description": "TM & © 2022 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 10,
+        "name": "2 Combo Whopper Vegetal",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-03-13/c15d692bb50d3f7bfde1f057e91a5013.jpeg",
+        "description": "TM & © 2022 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.\n*Mayonesa contiene productos de origen animal",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 11,
+        "name": "Promos del Rey - Long Rodeo King",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2024-03-22/233f1a6dee5a843099c17cf16b213efb.jpeg",
+        "description": "TM & © 2024 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES. ESTE COMBO INCLUYE PAPAS Y BEBIDAS PEQUEÑAS.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 12,
+        "name": "Promos del Rey - Long Big King",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2024-03-22/65701bdc39bd8117f7aa11ab462464cc.jpeg",
+        "description": "TM & © 2024 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES. ESTE COMBO INCLUYE PAPAS Y BEBIDAS PEQUEÑAS.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 13,
+        "name": "Promos del Rey - Long Onion Cheddar",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2024-03-22/4d561e1c176e7afd6d0953976d19f35f.jpeg",
+        "description": "TM & © 2024 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES. ESTE COMBO INCLUYE PAPAS Y BEBIDAS PEQUEÑAS.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 14,
+        "name": "Promos del Rey - Long Clasico",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2024-03-22/fcecd671edd5cb53de2d1b2a85c293ba.jpeg",
+        "description": "TM & © 2024 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES. ESTE COMBO INCLUYE PAPAS Y BEBIDAS PEQUEÑAS.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 15,
+        "name": "Combo Cheeseburger",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-06-13/b1c02b8abec6d0132ae5537697d91b1f.jpeg",
+        "description": "Combo cheeseburger simple con papas y bebida pequeñas.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 16,
+        "name": "Bowl Papas Supremas + Bowl Papas Fritas",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-03-13/331c694de650221ba780acbee5150b91.jpeg",
+        "description": "TM & © 2023 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 17,
+        "name": "Combo Whopper Jr.",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-06-13/21552f8061780a4888066a4b13940c20.jpeg",
+        "description": "Combo Whopper Jr. con papas y bebida pequeñas",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 18,
+        "name": "Combo Hamburguesa Clásica",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-06-13/d304163f2dab4905a9c8e0569f6dbcc0.jpeg",
+        "description": "Combo Hamburguesa Clásica con papas y bebida pequeñas.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 19,
+        "name": "Combo Pollo Clásico",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-06-13/8fb7d1c932e89f93e30da61cca9476ed.jpeg",
+        "description": "Combo Pollo Clásico con papas y bebida pequeñas.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 20,
+        "name": "Pie de Chocolate Hershey's",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-06-29/702c622ebdfeafb2c45174e5f5d964d8.jpeg",
+        "description": "TM & © 2022 BURGER KING CORPORATION. SE UTILIZA BAJO LICENCIA. TODOS LOS DERECHOS RESERVADOS. IMAGENES REFERENCIALES.",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    },
+    {
+        "id": 21,
+        "name": "Mozzarella Sticks",
+        "liked": false,
+        "category": "Saludable",
+        "image": "https://s3-sa-east-1.amazonaws.com/api-lac.production/images/discount_images/_thumbs280/2023-12-26/9ebddbd9c42772190dfe1927105f21eb.jpeg",
+        "description": "¡VUELVEN POR TIEMPO LIMITADO!",
+        "price": "Sin Precio",
+        "conditions": "Condiciones"
+    }
+]
